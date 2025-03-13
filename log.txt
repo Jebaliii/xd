@@ -1,0 +1,5 @@
+7d5c6b7 ajout de la fonction modulo()
+80d2249  conflit résolu
+86f56ba ajout de la fonction resultat()
+f7f1013 ajout de la fonction division()
+a74fcf5 ajout du fichier application.py
