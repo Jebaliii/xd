@@ -4,3 +4,5 @@ def resultat(x):
 def division(a,b):
 	return a/b if b!=0 
 	else"erreur : division par zéro"
+def modulo(a,b):
+	return a%b
